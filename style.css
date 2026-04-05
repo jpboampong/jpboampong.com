@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(255, 218, 9);
+}
+.logo{
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+}
+.topic{
+    text-align: center;
+    text-shadow:  2px 3px 3px rgb(0, 0, 0);
+    letter-spacing: 5px;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p1{
+    text-align: justify;
+    font-size: 20px;
+}
+.indent1{
+    text-indent: 100px;
+}
+.indent2{
+    text-indent: 100px;
+}
+.p2{
+   text-align: justify;
+    font-size: 20px;
+}
+.vid1{
+border-radius: 30px;
+box-shadow: 10px 10px 10px rgb(0, 0, 0);
+}
+.img2{
+    float: right;
+    padding: auto;
+}
+.img3{
+    padding-top: 20px;
+}
+.nav1{
+font-size: 20px;
+}
+.nav2{
+    font-size: 20px;
+}
